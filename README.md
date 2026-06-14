@@ -84,8 +84,8 @@ My approach is to question results, stress-test systems, and ensure that every m
 
 ## 📂 Featured Projects
 
-> For full project details, demos, and case studies — visit my portfolio:
-> **[sibghamursaleen.vercel.app](https://sibghamursaleen.vercel.app)**
+> For full project details, demos, and case studies — visit my GitHub:
+> **[https://github.com/SibghaMursaleen](https://github.com/SibghaMursaleen)**
 
 | Project | Domain | Tech Stack |
 |---------|--------|------------|
