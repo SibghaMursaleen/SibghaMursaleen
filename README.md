@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-Software%20Engineering-4B0082?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Degree-Computer%20Systems%20Engineering-4B0082?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   <img src="https://img.shields.io/badge/University-Sukkur%20IBA-005A8B?style=for-the-badge&logo=university&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Graduate-28a745?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
@@ -116,5 +116,5 @@ My approach is to question results, stress-test systems, and ensure that every m
 <p align="center">
   🌐 <a href="https://sibghamursaleen.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   💼 <a href="https://github.com/SibghaMursaleen">GitHub</a> &nbsp;·&nbsp;
-  Graduate · Software Engineer · Data Scientist
+  Graduate · Computer Systems Engineer · Data Scientist
 </p>
