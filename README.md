@@ -80,10 +80,15 @@ My engineering workflow centers on **clean code practices**, **system design opt
 
 | Project | Domain | Tech Stack |
 |---------|--------|------------|
-| **Personal Portfolio Website** | Frontend Development | HTML5, CSS3, React, JavaScript |
-| **Login Page & Authentication System** | Backend & Desktop GUI | Java, Swing, Security Logic |
-| **Mortgage Calculator** | Desktop Application | Java, Swing |
-| **Currency Converter** | Core Software Logic | C++ |
+| **[ecommerce-fullstack-design](https://github.com/SibghaMursaleen/ecommerce-fullstack-design)** | Full-Stack Web | React, Node.js, Express, MongoDB |
+| **[CyberShield-MobileApp](https://github.com/SibghaMursaleen/CyberShield-MobileApp)** | Mobile Development | Flutter, Dart, FastAPI, ML Models |
+| **[FYP_MobilityX_MobileAPP](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | Mobile Development | Flutter, Dart, WebSockets, C++ |
+| **[nexus-platform-fullstack](https://github.com/SibghaMursaleen/nexus-platform-fullstack)** | Full-Stack Web | React, TypeScript, Node.js, WebRTC |
+| **[VNIAS-IJILS-Backend](https://github.com/SibghaMursaleen/VNIAS-IJILS-Backend)** | Backend Engineering | FastAPI, Python, Pydantic, SQLite |
+| **[complaint-management-system-aspnet](https://github.com/SibghaMursaleen/complaint-management-system-aspnet)** | Full-Stack Web | ASP.NET Core, C#, HTML5, CSS3 |
+| **[MyPortfolio](https://github.com/SibghaMursaleen/MyPortfolio)** | Frontend Development | React, Vite, Tailwind CSS, JavaScript |
+| **[Mortgage-Calculator-Java](https://github.com/SibghaMursaleen/Mortgage-Calculator-Java)** | Desktop Application | Java, Swing |
+| **[CurrencyConverter_CPP](https://github.com/SibghaMursaleen/CurrencyConverter_CPP)** | Core Software Logic | C++ |
 
 ---
 
