@@ -1,8 +1,8 @@
 <h1 align="center">👋 Assalamualaikum! I'm Sibgha Mursaleen</h1>
 
 <p align="center">
-  Software Engineer · Data Engineer · Data Scientist · Web Developer<br/>
-  Building systems that are accurate, explainable, and production-ready.
+  Frontend Developer · Backend Engineer<br/>
+  Building responsive user interfaces and robust, scalable backend architectures.
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ## 📌 About Me
 
-I'm a **Computer Systems Engineering graduate** from **Sukkur IBA University**, specialising across four interconnected domains: **Software Engineering**, **Data Engineering**, **Data Science**, and **Web Development**. I work at the intersection of data, intelligent systems, and modern web interfaces — building solutions that are not only functional but also well-engineered and research-worthy.
+I'm a **Computer Systems Engineering graduate** from **Sukkur IBA University**, specializing in **Frontend Development** and **Backend Engineering**. I develop full-stack applications by combining clean, intuitive **user interfaces** with scalable, high-performance **backend architectures**.
 
-My approach is to question results, stress-test systems, and ensure that every model, pipeline, or application I build is **explainable, reproducible, and production-ready**.
+My engineering workflow centers on **clean code practices**, **system design optimization**, and **seamless user experiences**, ensuring that every web application or system is **modular**, **secure**, and **production-ready**.
 
 > 🌐 **Portfolio:** [sibghamursaleen.vercel.app](https://sibghamursaleen.vercel.app) — for a full overview of my projects, experience, and achievements.
 
@@ -44,39 +44,30 @@ My approach is to question results, stress-test systems, and ensure that every m
 
 | Domain | Focus |
 |--------|-------|
-| **Software Engineering** | System design, OOP, desktop & backend applications |
-| **Data Engineering** | Data pipelines, ETL workflows, structured data systems |
-| **Data Science** | ML/DL modelling, EDA, statistical analysis, model evaluation |
-| **Web Development** | Full-stack web apps — HTML, CSS, JS, React, Flask, Streamlit |
+| **Frontend Development** | **Responsive web design**, interactive **UI/UX components**, and state management with **React** |
+| **Backend Engineering** | **RESTful APIs**, **database integrations**, system design, and **MVC architectures** |
+| **Software Architecture** | **Object-oriented programming (OOP)**, **structural design patterns**, and **code optimization** |
 
 ---
 
 ## 🛠️ Technical Skillset
 
-**Languages & Core Tools**
+**Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Machine Learning & Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Web & Deployment**
+**Web & Backend Frameworks**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Tools & Version Control**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -89,12 +80,10 @@ My approach is to question results, stress-test systems, and ensure that every m
 
 | Project | Domain | Tech Stack |
 |---------|--------|------------|
-| **Health & Environmental Monitoring System** | Data Science / IoT | Python, Sensors, ML |
-| **Invisible Cloak** | Computer Vision | Python, OpenCV |
-| **Mortgage Calculator** | Software Engineering | Java, Swing |
-| **Login Page System** | Software Engineering | Java, Swing |
-| **SOHO Network Design** | Networking | Cisco Packet Tracer |
-| **Currency Converter** | Software Engineering | C++ |
+| **Personal Portfolio Website** | Frontend Development | HTML5, CSS3, React, JavaScript |
+| **Login Page & Authentication System** | Backend & Desktop GUI | Java, Swing, Security Logic |
+| **Mortgage Calculator** | Desktop Application | Java, Swing |
+| **Currency Converter** | Core Software Logic | C++ |
 
 ---
 
@@ -116,5 +105,5 @@ My approach is to question results, stress-test systems, and ensure that every m
 <p align="center">
   🌐 <a href="https://sibghamursaleen.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   💼 <a href="https://github.com/SibghaMursaleen">GitHub</a> &nbsp;·&nbsp;
-  Graduate · Computer Systems Engineer · Data Scientist
+  Graduate · Computer Systems Engineering · Frontend Developer · Backend Engineer
 </p>
