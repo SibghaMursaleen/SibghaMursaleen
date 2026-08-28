@@ -1,8 +1,8 @@
-<h1 align="center">👋 Assalamualaikum! I'm Sibgha Mursaleen</h1>
+<h1 align="center">🔷 Sibgha Mursaleen</h1>
 
 <p align="center">
-  Frontend Developer · Backend Engineer<br/>
-  Building responsive user interfaces and robust, scalable backend architectures.
+  Networking & IT Infrastructure · IoT Systems · Backend Developer<br/>
+  Designing secure network topologies, smart IoT integrations, and scalable backend architectures.
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ## 📌 About Me
 
-I'm a **Computer Systems Engineering graduate** from **Sukkur IBA University**, specializing in **Frontend Development** and **Backend Engineering**. I develop full-stack applications by combining clean, intuitive **user interfaces** with scalable, high-performance **backend architectures**.
+I am a **Computer Systems Engineering graduate** from **Sukkur IBA University**, specializing in **Networking & IT Infrastructure**, **IoT Devices**, and **Backend Engineering**. I design and implement end-to-end connected solutions by combining robust **asynchronous APIs** with physical **microcontroller-based IoT systems** and secure **enterprise network architectures**.
 
-My engineering workflow centers on **clean code practices**, **system design optimization**, and **seamless user experiences**, ensuring that every web application or system is **modular**, **secure**, and **production-ready**.
+My engineering philosophy emphasizes **rigorous testing**, **system reliability**, and **defensive design**—ensuring that every system is modular, secure, and production-ready.
 
 > 🌐 **Portfolio:** [sibghamursaleen.vercel.app](https://sibghamursaleen.vercel.app) — for a full overview of my projects, experience, and achievements.
 
@@ -44,58 +44,57 @@ My engineering workflow centers on **clean code practices**, **system design opt
 
 | Domain | Focus |
 |--------|-------|
-| **Frontend Development** | **Responsive web design**, interactive **UI/UX components**, and state management with **React** |
-| **Backend Engineering** | **RESTful APIs**, **database integrations**, system design, and **MVC architectures** |
-| **Software Architecture** | **Object-oriented programming (OOP)**, **structural design patterns**, and **code optimization** |
+| **Networking & IT Infrastructure** | Secure **network design**, routing & switching, **VLAN segmentation**, and Cisco Packet Tracer simulations |
+| **IoT & Embedded Systems** | **Firmware development (C++)**, sensor data ingestion, ESP32/Arduino systems, and **WebSockets** communication |
+| **Backend Engineering** | **RESTful API design**, database schemas, authentication, and high-performance **MVC architectures** |
 
 ---
 
 ## 🛠️ Technical Skillset
 
-**Languages**
+**Networking & IT**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco--Packet--Tracer-110A5C?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP--IP-0052FF?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs%20%26%20Routing-FF5733?style=flat-square)
+
+**IoT & Hardware Development**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Web & Backend Frameworks**
+**Backend Frameworks & Databases**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET--Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & Version Control**
+**Core Languages**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**AI Assistants & Developer Tools**
-
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=google&logoColor=white)
-![Eigent](https://img.shields.io/badge/Eigent-0052FF?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google-gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-> For full project details, demos, and case studies — visit my GitHub:
-> **[https://github.com/SibghaMursaleen](https://github.com/SibghaMursaleen)**
+> For full project details, source code, and live setups — check out the repositories below:
 
-| Project | Domain | Tech Stack |
-|---------|--------|------------|
-| **[ecommerce-fullstack-design](https://github.com/SibghaMursaleen/ecommerce-fullstack-design)** | Full-Stack Web | React, Node.js, Express, MongoDB |
-| **[CyberShield-MobileApp](https://github.com/SibghaMursaleen/CyberShield-MobileApp)** | Mobile Development | Flutter, Dart, FastAPI, ML Models |
-| **[FYP_MobilityX_MobileAPP](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | Mobile Development | Flutter, Dart, WebSockets, C++ |
-| **[nexus-platform-fullstack](https://github.com/SibghaMursaleen/nexus-platform-fullstack)** | Full-Stack Web | React, TypeScript, Node.js, WebRTC |
-| **[VNIAS-IJILS-Backend](https://github.com/SibghaMursaleen/VNIAS-IJILS-Backend)** | Backend Engineering | FastAPI, Python, Pydantic, SQLite |
-| **[complaint-management-system-aspnet](https://github.com/SibghaMursaleen/complaint-management-system-aspnet)** | Full-Stack Web | ASP.NET Core, C#, HTML5, CSS3 |
-| **[MyPortfolio](https://github.com/SibghaMursaleen/MyPortfolio)** | Frontend Development | React, Vite, Tailwind CSS, JavaScript |
-| **[Mortgage-Calculator-Java](https://github.com/SibghaMursaleen/Mortgage-Calculator-Java)** | Desktop Application | Java, Swing |
-| **[CurrencyConverter_CPP](https://github.com/SibghaMursaleen/CurrencyConverter_CPP)** | Core Software Logic | C++ |
+| Project | Domain | Tech Stack | Description |
+|---------|--------|------------|-------------|
+| **[SOHO Network Design](https://github.com/SibghaMursaleen/SOHO-Network-Design)** | Networking & IT | Cisco Packet Tracer, VLANs, routing protocols, firewalls | Designing and simulating a secure Small Office / Home Office (SOHO) network infrastructure featuring custom VLAN segmentation, secure routing, and firewall protection. |
+| **[eCO Health Monitor](https://github.com/SibghaMursaleen/Health-Environmental-Monitoring-System)** | IoT & Backend | Python, Sensors, C++, Flask, Microcontrollers | An IoT-based environmental and health monitoring solution that ingests biometric and ambient sensor data, transferring it to a centralized backend dashboard. |
+| **[FYP: MobilityX Assistance Platform](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | IoT & Backend | ESP32, C++, WebSockets, Flutter, FastAPI | My Final Year Project (FYP)—a hardware-software system connecting assistive mobility devices with a mobile app and server using real-time WebSockets. |
+| **[CyberShield Network Detector](https://github.com/SibghaMursaleen/CyberShield-MobileApp)** | Cybersecurity & Backend | FastAPI, Python, Machine Learning, Wireshark | A secure backend API that analyzes network packets for intrusion detection, running real-time classifier models to identify malicious activity. |
+| **[VNIAS Platform Backend](https://github.com/SibghaMursaleen/VNIAS-IJILS-Backend)** | Backend Engineering | FastAPI, Python, Pydantic, SQLite | High-performance, asynchronous REST API engine with schema validation, user authentication, and optimized database management. |
 
 ---
 
@@ -110,12 +109,12 @@ My engineering workflow centers on **clean code practices**, **system design opt
 
 ## ✍️ Professional Principle
 
-> *"A system is only as trustworthy as the rigour behind its design — I build with verification, not assumption."*
+> *"A network is only as secure as its weakest configuration, and a backend only as reliable as its error handling. I build with structural precision, verifying every system connection."*
 
 ---
 
 <p align="center">
   🌐 <a href="https://sibghamursaleen.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   💼 <a href="https://github.com/SibghaMursaleen">GitHub</a> &nbsp;·&nbsp;
-  Graduate · Computer Systems Engineering · Frontend Developer · Backend Engineer
+  Graduate · Computer Systems Engineering · IoT & Backend Developer
 </p>
