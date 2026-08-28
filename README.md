@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sibghamursaleen.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-sibghamursaleen.vercel.app-blueviolet?style=for-the-badge"/>
-  </a>
   <a href="https://github.com/SibghaMursaleen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SibghaMursaleen-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -27,8 +24,6 @@
 I am a **Computer Systems Engineering graduate** from **Sukkur IBA University**, specializing in **Networking & IT Infrastructure**, **IoT Devices**, and **Backend Engineering**. I design and implement end-to-end connected solutions by combining robust **asynchronous APIs** with physical **microcontroller-based IoT systems** and secure **enterprise network architectures**.
 
 My engineering philosophy emphasizes **rigorous testing**, **system reliability**, and **defensive design**—ensuring that every system is modular, secure, and production-ready.
-
-> 🌐 **Portfolio:** [sibghamursaleen.vercel.app](https://sibghamursaleen.vercel.app) — for a full overview of my projects, experience, and achievements.
 
 ---
 
@@ -64,6 +59,8 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-00599C?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Backend Frameworks & Databases**
@@ -90,11 +87,11 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 
 | Project | Domain | Tech Stack | Description |
 |---------|--------|------------|-------------|
-| **[SOHO Network Design](https://github.com/SibghaMursaleen/SOHO-Network-Design)** | Networking & IT | Cisco Packet Tracer, VLANs, routing protocols, firewalls | Designing and simulating a secure Small Office / Home Office (SOHO) network infrastructure featuring custom VLAN segmentation, secure routing, and firewall protection. |
-| **[eCO Health Monitor](https://github.com/SibghaMursaleen/Health-Environmental-Monitoring-System)** | IoT & Backend | Python, Sensors, C++, Flask, Microcontrollers | An IoT-based environmental and health monitoring solution that ingests biometric and ambient sensor data, transferring it to a centralized backend dashboard. |
+| **[SOHO Network Design](https://github.com/SibghaMursaleen/SOHO-Smart-Network-Simulation)** | Networking & IT | Cisco Packet Tracer, VLANs, routing protocols, firewalls | Designing and simulating a secure Small Office / Home Office (SOHO) network infrastructure featuring custom VLAN segmentation, secure routing, and firewall protection. |
+| **[Eco Health Monitor](https://github.com/SibghaMursaleen/Ecohealth-Monitor)** | IoT & Backend | Python, Sensors, C++, Flask, Microcontrollers | An IoT-based environmental and health monitoring solution that ingests biometric and ambient sensor data, transferring it to a centralized backend dashboard. |
 | **[FYP: MobilityX Assistance Platform](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | IoT & Backend | ESP32, C++, WebSockets, Flutter, FastAPI | My Final Year Project (FYP)—a hardware-software system connecting assistive mobility devices with a mobile app and server using real-time WebSockets. |
-| **[CyberShield Network Detector](https://github.com/SibghaMursaleen/CyberShield-MobileApp)** | Cybersecurity & Backend | FastAPI, Python, Machine Learning, Wireshark | A secure backend API that analyzes network packets for intrusion detection, running real-time classifier models to identify malicious activity. |
-| **[VNIAS Platform Backend](https://github.com/SibghaMursaleen/VNIAS-IJILS-Backend)** | Backend Engineering | FastAPI, Python, Pydantic, SQLite | High-performance, asynchronous REST API engine with schema validation, user authentication, and optimized database management. |
+| **[UART Verilog Implementation](https://github.com/SibghaMursaleen/UART-Verilog)** | Digital Systems & IoT | Verilog HDL, Testbenches, FPGA Simulation | Implementing a hardware-level Universal Asynchronous Receiver-Transmitter (UART) protocol in Verilog HDL for serial data communications. |
+| **[White House AutoCAD Model](https://github.com/SibghaMursaleen/white-house-autocad-model)** | Computer-Aided Design | AutoCAD, 3D Modeling, Engineering Design | Developing a detailed 2D/3D architectural CAD model of the White House structure, illustrating precise engineering layouts and scaling. |
 
 ---
 
@@ -114,7 +111,6 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 ---
 
 <p align="center">
-  🌐 <a href="https://sibghamursaleen.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   💼 <a href="https://github.com/SibghaMursaleen">GitHub</a> &nbsp;·&nbsp;
   Graduate · Computer Systems Engineering · IoT & Backend Developer
 </p>
