@@ -1,8 +1,8 @@
 <h1 align="center">🔷 Sibgha Mursaleen</h1>
 
 <p align="center">
-  Networking & IT Infrastructure · IoT Systems · Backend Developer<br/>
-  Designing secure network topologies, smart IoT integrations, and scalable backend architectures.
+  Flutter & Mobile App Development · AI/ML · IoT Systems<br/>
+  Building cross-platform mobile apps and exploring intelligent, connected systems.
 </p>
 
 <p align="center">
@@ -21,9 +21,11 @@
 
 ## 📌 About Me
 
-I am a **Computer Systems Engineering graduate** from **Sukkur IBA University**, specializing in **Networking & IT Infrastructure**, **IoT Devices**, and **Backend Engineering**. I design and implement end-to-end connected solutions by combining robust **asynchronous APIs** with physical **microcontroller-based IoT systems** and secure **enterprise network architectures**.
+I'm a **Computer Systems Engineering graduate** from **Sukkur IBA University** (CGPA 3.74/4.00), currently focused on **Flutter and mobile app development**. I'm building a portfolio of cross-platform apps — from recreating real-world UI designs to my final year project, a Flutter-based controller app for an assistive robotics platform.
 
-My engineering philosophy emphasizes **rigorous testing**, **system reliability**, and **defensive design**—ensuring that every system is modular, secure, and production-ready.
+Alongside mobile dev, I bring a solid engineering foundation from my degree: **AI/ML**, web development, and **embedded/IoT systems** (ESP32, Arduino, sensors). I also published a research paper on deep learning for prohibited item detection in airport X-ray imaging.
+
+My engineering philosophy: build things that actually work end-to-end, test rigorously, and keep learning in public.
 
 ---
 
@@ -31,7 +33,7 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 
 | Degree | Institution | Status |
 |--------|-------------|--------|
-| **B.E. Computer Systems Engineering** | Sukkur IBA University | ✅ Graduated |
+| **B.E. Computer Systems Engineering** | Sukkur IBA University | ✅ Graduated (CGPA 3.74/4.00) |
 
 ---
 
@@ -39,45 +41,41 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 
 | Domain | Focus |
 |--------|-------|
-| **Networking & IT Infrastructure** | Secure **network design**, routing & switching, **VLAN segmentation**, and Cisco Packet Tracer simulations |
-| **IoT & Embedded Systems** | **Firmware development (C++)**, sensor data ingestion, ESP32/Arduino systems, and **WebSockets** communication |
-| **Backend Engineering** | **RESTful API design**, database schemas, authentication, and high-performance **MVC architectures** |
+| **Mobile App Development** | **Flutter & Dart**, cross-platform UI, state management, REST/WebSocket integration — currently building and posting practice apps |
+| **AI & Machine Learning** | Supervised/unsupervised learning, deep learning model evaluation — published research on deep learning-based detection |
+| **IoT & Embedded Systems** | Firmware development (C++), sensor data ingestion, ESP32/Arduino systems, WebSockets communication |
+| **Networking & IT Infrastructure** | Network design, routing & switching, VLAN segmentation, Cisco Packet Tracer simulations |
 
 ---
 
 ## 🛠️ Technical Skillset
 
-**Networking & IT**
+**Mobile Development**
 
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco--Packet--Tracer-110A5C?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP--IP-0052FF?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs%20%26%20Routing-FF5733?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**IoT & Hardware Development**
+**AI / Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**IoT & Hardware**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-00599C?style=flat-square)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Backend Frameworks & Databases**
+**Networking & Backend (supporting skills)**
 
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco--Packet--Tracer-110A5C?style=flat-square&logo=cisco&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET--Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -87,9 +85,9 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 
 | Project | Domain | Tech Stack | Description |
 |---------|--------|------------|-------------|
-| **[SOHO Network Design](https://github.com/SibghaMursaleen/SOHO-Smart-Network-Simulation)** | Networking & IT | Cisco Packet Tracer, VLANs, routing protocols, firewalls | Designing and simulating a secure Small Office / Home Office (SOHO) network infrastructure featuring custom VLAN segmentation, secure routing, and firewall protection. |
+| **[FYP: MobilityX Controller](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | Mobile App Development | Flutter, Dart, WebSockets, ESP32 | My Final Year Project — a cross-platform Flutter app that remotely controls and monitors an assistive mobility robot in real time over WebSockets. |
 | **[Eco Health Monitor](https://github.com/SibghaMursaleen/Ecohealth-Monitor)** | IoT & Backend | Python, Sensors, C++, Flask, Microcontrollers | An IoT-based environmental and health monitoring solution that ingests biometric and ambient sensor data, transferring it to a centralized backend dashboard. |
-| **[FYP: MobilityX Assistance Platform](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | IoT & Backend | ESP32, C++, WebSockets, Flutter, FastAPI | My Final Year Project (FYP)—a hardware-software system connecting assistive mobility devices with a mobile app and server using real-time WebSockets. |
+| **[SOHO Network Design](https://github.com/SibghaMursaleen/SOHO-Smart-Network-Simulation)** | Networking & IT | Cisco Packet Tracer, VLANs, routing protocols, firewalls | Designing and simulating a secure Small Office / Home Office (SOHO) network infrastructure featuring custom VLAN segmentation, secure routing, and firewall protection. |
 | **[UART Verilog Implementation](https://github.com/SibghaMursaleen/UART-Verilog)** | Digital Systems & IoT | Verilog HDL, Testbenches, FPGA Simulation | Implementing a hardware-level Universal Asynchronous Receiver-Transmitter (UART) protocol in Verilog HDL for serial data communications. |
 | **[White House AutoCAD Model](https://github.com/SibghaMursaleen/white-house-autocad-model)** | Computer-Aided Design | AutoCAD, 3D Modeling, Engineering Design | Developing a detailed 2D/3D architectural CAD model of the White House structure, illustrating precise engineering layouts and scaling. |
 
@@ -106,11 +104,11 @@ My engineering philosophy emphasizes **rigorous testing**, **system reliability*
 
 ## ✍️ Professional Principle
 
-> *"A network is only as secure as its weakest configuration, and a backend only as reliable as its error handling. I build with structural precision, verifying every system connection."*
+> *"I build things I can actually explain, and I learn in public — every project here is a step toward better, more polished mobile experiences."*
 
 ---
 
 <p align="center">
   💼 <a href="https://github.com/SibghaMursaleen">GitHub</a> &nbsp;·&nbsp;
-  Graduate · Computer Systems Engineering · IoT & Backend Developer
+  Graduate · Computer Systems Engineering · Flutter & Mobile Developer
 </p>
