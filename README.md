@@ -79,20 +79,6 @@ My engineering philosophy: build things that actually work end-to-end, test rigo
 
 ---
 
-## 📂 Featured Projects
-
-> For full project details, source code, and live setups — check out the repositories below:
-
-| Project | Domain | Tech Stack | Description |
-|---------|--------|------------|-------------|
-| **[FYP: MobilityX Controller](https://github.com/SibghaMursaleen/FYP_MobilityX_MobileAPP)** | Mobile App Development | Flutter, Dart, WebSockets, ESP32 | My Final Year Project — a cross-platform Flutter app that remotely controls and monitors an assistive mobility robot in real time over WebSockets. |
-| **[Eco Health Monitor](https://github.com/SibghaMursaleen/Ecohealth-Monitor)** | IoT & Backend | Python, Sensors, C++, Flask, Microcontrollers | An IoT-based environmental and health monitoring solution that ingests biometric and ambient sensor data, transferring it to a centralized backend dashboard. |
-| **[SOHO Network Design](https://github.com/SibghaMursaleen/SOHO-Smart-Network-Simulation)** | Networking & IT | Cisco Packet Tracer, VLANs, routing protocols, firewalls | Designing and simulating a secure Small Office / Home Office (SOHO) network infrastructure featuring custom VLAN segmentation, secure routing, and firewall protection. |
-| **[UART Verilog Implementation](https://github.com/SibghaMursaleen/UART-Verilog)** | Digital Systems & IoT | Verilog HDL, Testbenches, FPGA Simulation | Implementing a hardware-level Universal Asynchronous Receiver-Transmitter (UART) protocol in Verilog HDL for serial data communications. |
-| **[White House AutoCAD Model](https://github.com/SibghaMursaleen/white-house-autocad-model)** | Computer-Aided Design | AutoCAD, 3D Modeling, Engineering Design | Developing a detailed 2D/3D architectural CAD model of the White House structure, illustrating precise engineering layouts and scaling. |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
